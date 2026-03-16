@@ -29,9 +29,7 @@ The dataset contains information about Netflix movies and TV shows, including:
 ## Tools Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
